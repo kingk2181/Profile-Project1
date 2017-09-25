@@ -1,0 +1,22 @@
+/* Global Layout Set-up */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  color: #222;
+  background: #f7f5f0;
+}
+
+.main-nav {
+  width: 100%;
+  background: #b600ff;;
+  min-height: 30px;
+  padding: 10px;
+  position: fixed;
+  text-align: left;
+}
